@@ -120,9 +120,8 @@ article h2 {
 }
 
 article img {
-    width: 200px;
-    height: 150px;
-    object-fit: cover;
+    width: 350px;
+    height: auto;
 }
 
 .float-right {
